@@ -4,5 +4,6 @@ Collection of my implementation of various Data Structures and Algorithms in Swi
 ## Data Structures
 
 * Stack [Implementation](/DataStructures/stack.playground/Contents.swift)
+* Queue [Implementation](/DataStructures/queue.playground/Contents.swift)
 
 ## Algorithms
