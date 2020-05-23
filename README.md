@@ -7,3 +7,4 @@ Collection of my implementation of various Data Structures and Algorithms in Swi
 * Queue [Implementation](/DataStructures/queue.playground/Contents.swift)
 
 ## Algorithms
+* Binary Search [Implementation](/Algorithms/BinarySearch.playground/Contents.swift)
