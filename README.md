@@ -11,3 +11,4 @@ Collection of my implementation of various Data Structures and Algorithms in Swi
 * Linear Search [Implementation](/Algorithms/LinearSearch.playground/Contents.swift)
 * Bubble Sort [Implementation](/Algorithms/BubbleSort.playground/Contents.swift)
 * Selection Sort [Implementation](/Algorithms/SelectionSort.playground/Contents.swift)
+* Insertion Sort [Implementation](/Algorithms/InsertionSort.playground/Contents.swift)
