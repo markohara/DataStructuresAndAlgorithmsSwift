@@ -13,3 +13,4 @@ Collection of my implementation of various Data Structures and Algorithms in Swi
 * Selection Sort [Implementation](/Algorithms/SelectionSort.playground/Contents.swift)
 * Insertion Sort [Implementation](/Algorithms/InsertionSort.playground/Contents.swift)
 * Invert Binary Tree [Implementation](/Algorithms/InvertBinaryTree.playground/Contents.swift)
+* Bogosort [Implementation](/Algorithms/Bogosort.playground/Contents.swift)
